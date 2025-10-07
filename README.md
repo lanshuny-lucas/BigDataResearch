@@ -90,12 +90,4 @@ The dataset contains demographic, behavioral, and financial variables such as **
 
 ---
 
-## 👤 Contributors
-- Lanshun Yuan  
-- Yuxiao Deng  
-- Zhengyi Lin  
-- Ching Tai  
-
----
-
 ✨ *This project demonstrates applied data science for financial risk management, with a focus on feature engineering, model selection, and practical business implications.*  
